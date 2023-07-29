@@ -1,0 +1,6 @@
+Some basics git commands are:
+git init: Used to initiliaze a new repository
+git clone: Used to clone a existing repository
+git status: Used to get the status of the git branch
+git log: Used to get the logs of all the branch of git
+
